@@ -1,4 +1,4 @@
-# Job Board client
+# Job Board
 
 ---
 
